@@ -1,0 +1,65 @@
+{
+  "blur": {
+    "accuracy": 0.7716666666666666,
+    "fnmr_fmr001": 0.7533333333333333,
+    "fnmr_fmr01": 0.6733333333333333,
+    "num_pairs": 600,
+    "optimal_threshold": 0.362,
+    "threshold_fmr001": 0.5919081568717957,
+    "threshold_fmr01": 0.5491882562637329
+  },
+  "brightness": {
+    "accuracy": 0.7866666666666666,
+    "fnmr_fmr001": 0.8,
+    "fnmr_fmr01": 0.6166666666666667,
+    "num_pairs": 600,
+    "optimal_threshold": 0.373,
+    "threshold_fmr001": 0.6314889788627625,
+    "threshold_fmr01": 0.5270887017250061
+  },
+  "color_tone": {
+    "accuracy": 0.7833333333333333,
+    "fnmr_fmr001": 0.8033333333333333,
+    "fnmr_fmr01": 0.61,
+    "num_pairs": 600,
+    "optimal_threshold": 0.427,
+    "threshold_fmr001": 0.6287357211112976,
+    "threshold_fmr01": 0.5317256450653076
+  },
+  "eye_enlarge": {
+    "accuracy": 0.785,
+    "fnmr_fmr001": 0.8266666666666667,
+    "fnmr_fmr01": 0.65,
+    "num_pairs": 600,
+    "optimal_threshold": 0.387,
+    "threshold_fmr001": 0.6410874724388123,
+    "threshold_fmr01": 0.5473326444625854
+  },
+  "face_slim": {
+    "accuracy": 0.775,
+    "fnmr_fmr001": 0.74,
+    "fnmr_fmr01": 0.7133333333333334,
+    "num_pairs": 600,
+    "optimal_threshold": 0.372,
+    "threshold_fmr001": 0.5830564498901367,
+    "threshold_fmr01": 0.5661727786064148
+  },
+  "original": {
+    "accuracy": 0.7933333333333333,
+    "fnmr_fmr001": 0.8333333333333334,
+    "fnmr_fmr01": 0.6333333333333333,
+    "num_pairs": 600,
+    "optimal_threshold": 0.372,
+    "threshold_fmr001": 0.6447405815124512,
+    "threshold_fmr01": 0.5433715581893921
+  },
+  "skin_smooth": {
+    "accuracy": 0.77,
+    "fnmr_fmr001": 0.7533333333333333,
+    "fnmr_fmr01": 0.6466666666666666,
+    "num_pairs": 600,
+    "optimal_threshold": 0.403,
+    "threshold_fmr001": 0.5896669030189514,
+    "threshold_fmr01": 0.5279063582420349
+  }
+}

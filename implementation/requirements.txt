@@ -1,0 +1,18 @@
+deepface>=0.0.93
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+gradio>=4.0.0
+dlib>=19.24.0
+mediapipe>=0.10.0
+scipy>=1.11.0
+tf-keras>=2.21.0
+reportlab>=4.0.0
+# Optional upgrade backbone on compatible Python versions. Python 3.13 uses the
+# built-in GhostFaceNet fallback path because AdaFace is not available there.
+adaface-pytorch>=0.1.0; python_version < "3.13"

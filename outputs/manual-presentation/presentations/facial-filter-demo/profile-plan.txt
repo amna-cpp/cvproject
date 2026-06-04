@@ -1,0 +1,1 @@
+task mode: create\nprimary deck-profile: engineering-platform\nproof objects: real metrics JSON, accuracy plots, FNMR plot, summary table\nQA gates: short text, live demo flow, readable charts, final PPTX export\n
