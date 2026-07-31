@@ -6,9 +6,25 @@
 *.onnx
 *.weights
 *.pkl
+*.npy
+*.docx
+*.pptx
+*.pdf
+*.log
 
 # DeepFace downloaded weights
 .deepface/
+.matplotlib/
+
+# Dataset and generated experiment artifacts
+data/lfw_original/
+data/lfw_filtered/
+dataset/
+outputs/
+final_report/
+presentation/
+results/embeddings/
+implementation/results/embeddings/
 
 # Python/cache files
 __pycache__/
